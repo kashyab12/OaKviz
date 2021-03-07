@@ -21,7 +21,7 @@ Even though we imported a selection of different libraries; the ImGui, ImGui Fil
 Since there are too many features to list within this Description, please click the link embeded below in order to Read an entire Comprehensive Feature List.
 <object data="https://drive.google.com/file/d/1RPdeW5u4nOG43abFQLYavhoiRw0w5yLk/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1RPdeW5u4nOG43abFQLYavhoiRw0w5yLk/view?usp=sharing">
-    <p><a href="https://drive.google.com/file/d/1RPdeW5u4nOG43abFQLYavhoiRw0w5yLk/view?usp=sharing">OaK.viz Project Report</a>.</p>
+    <p><a href="https://drive.google.com/file/d/1RPdeW5u4nOG43abFQLYavhoiRw0w5yLk/view?usp=sharing">OaK.viz Project Report</a></p>
     </embed>
 </object>
 
@@ -29,7 +29,7 @@ Since there are too many features to list within this Description, please click 
 For an understanding of some of the controls in order to interact with the program please click the link below to view the Command List Document.
 <object data="https://drive.google.com/file/d/1RPdeW5u4nOG43abFQLYavhoiRw0w5yLk/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1RPdeW5u4nOG43abFQLYavhoiRw0w5yLk/view?usp=sharing">
-    <p><a href="https://drive.google.com/file/d/1DWwLp1kN2_AZu-JUd2SAFnczEBn00xXh/view?usp=sharing">OaK.viz Command List</a>.</p>
+    <p><a href="https://drive.google.com/file/d/1DWwLp1kN2_AZu-JUd2SAFnczEBn00xXh/view?usp=sharing">OaK.viz Command List</a></p>
     </embed>
 </object>
 
