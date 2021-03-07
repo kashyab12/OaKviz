@@ -21,5 +21,6 @@ Even though we imported a selection of different libraries; the ImGui, ImGui Fil
 Since there are too many features to list within this Description, please click the link embeded below in order to Read an entire Comprehensive Feature List.
 <object data="https://drive.google.com/file/d/1RPdeW5u4nOG43abFQLYavhoiRw0w5yLk/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1RPdeW5u4nOG43abFQLYavhoiRw0w5yLk/view?usp=sharing">
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1RPdeW5u4nOG43abFQLYavhoiRw0w5yLk/view?usp=sharing">Download PDF</a>.</p>
     </embed>
 </object>
